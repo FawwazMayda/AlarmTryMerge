@@ -171,5 +171,6 @@
     <resources>
         <image name="play_btn" width="61" height="60"/>
         <image name="sounds" width="32" height="32"/>
+        <image name="sounds" width="64" height="64"/>
     </resources>
 </document>
